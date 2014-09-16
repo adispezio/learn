@@ -147,7 +147,7 @@ Instead the classes that inherit the shared button properties have been grouped 
 
 This mixin/extend combo can be used to generate many buttons while reducing the amount of duplicate CSS. More advanced Sass features, like placeholder selectors, can further increase the cleanliness of this code.
 
-## Leveling Up
+## Finding a Balance
 Intelligent use of mixins and extends have lead to some remarkable Sass modules, but remember to always check the CSS output. Sass is not a panacea for every CSS issue and will require some finesse to achieve the expected output. Experiment with different techniques and see how these features can be woven together to create powerful mixins and clean stylesheets. Sass’ fast-growing community means there are always new ideas to explore, discover and contribute. Have fun!
 <p><br></p>
 <p><br></p>

@@ -1,10 +1,8 @@
 # Crafting Smarter Mixins with Extend
-*alt*
-# Sass: Smarter Mixins with Extend
 
 ### Mixins and extends are essential tools in the Sass arsenal. Anthony DiSpezio shows how to leverage them at the same time to create more maintainable Sass and cleaner CSS.
 
-
+https://github.com/adispezio/learn/tree/master/crafting-smarter-mixins-with-extend
 
 Sass, the leading preprocessor for CSS, has a well-earned reputation among front-end developers for wrangling complex CSS into smart, reusable code. This is unquestionably valuable for scaling and maintainability, and allows front-end developers to augment the shortcomings presented by traditional CSS. Of its versatile toolkit, two of Sass’ most fundamental features are mixins and extends. While often grouped together for their ability to generate additional styles, each offers a unique approach for solving common CSS drawbacks.
 
@@ -163,11 +161,10 @@ Sometimes over-engineering can lead to functional problems as well. Abuse of Sas
 
 Keeping Sass manageable is not an excuse to write bad CSS. It is always good practice to write efficient CSS selectors (even if performance gains are marginal), but there’s no need to over-complicate your Sass modules to the point where you don’t understand how they work. An easy-to-understand mixin that produces a few extra lines of CSS may prove to be more valuable in the long run, especially when working in large teams.
 
-Sass guru Hugo Giraudel said it best in his article Keep Sass Simple: “Just because we can, doesn’t mean we should.” This sentiment rings true for many of the esoteric uses for Sass. They might be great experiments, but often introduce far too much complexity into production-ready projects.
+Sass guru Hugo Giraudel said it best in his article *Keep Sass Simple*: “Everything is not meant to be used everywhere.” This sentiment rings true for many of the esoteric uses for Sass. They might be great experiments, but often introduce far too much complexity into production-ready projects.
 
-**[boxout_1.png]**
-
-*Hugo’s article, Keep Sass Simple, weight the importance of experimental Sass with the realities of production-ready output.
+![boxout_1.png](https://github.com/adispezio/learn/blob/master/crafting-smarter-mixins-with-extend/boxout1.png "Boxout 11")<br>
+*Hugo’s article, Keep Sass Simple, weighs the importance of experimental Sass with the realities of production-ready stability.
 http://www.sitepoint.com/keep-sass-simple/*
 
 
@@ -186,10 +183,10 @@ Sass News | http://sassnews.com/
 
 Every day, fantastic Sass experiments are posted on blogs, twitter, youtube, code playgrounds, and more. Devote a small portion of your day to exploring what’s new and pushing the boundaries of your own experience, even if it’s only a few minutes. The Sass Way
 
-**[boxout_2-1.png]**<br>
-*SassCon, held annually in NYC, is the largest front-end conference devoted entirely to Sass-driven development.*
+![boxout_2-1.png](https://github.com/adispezio/learn/blob/master/crafting-smarter-mixins-with-extend/boxout2-1.png "Boxout 2.1")<br>
+*SassConf, held annually in NYC, is the largest front-end conference devoted entirely to Sass-driven development.*
 
-**[boxout_2-2.png]**<br>
+![boxout_2-2.png](https://github.com/adispezio/learn/blob/master/crafting-smarter-mixins-with-extend/boxout2-2.png "Boxout 2.2")<br>
 *Sass meetups are happening all over the world. Find a meetup near you or start your own!*
 
 ---
@@ -198,6 +195,6 @@ Anthony DiSpezio
 
 Content Engineer at Inkling
 
-Clients: Starbucks, Pearson, Elsevier, McGraw Hill
+Clients: Starbucks, Pearson, Kaplan, Elsevier, McGraw Hill
 
 *HTML, CSS, Sass, JS, WP*

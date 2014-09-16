@@ -1,6 +1,6 @@
 # Crafting Smarter Mixins with Extend
 
-### Mixins and extends are essential tools in the Sass arsenal. Anthony DiSpezio shows how to leverage them at the same time to create more maintainable Sass and cleaner CSS.
+### Mixins and extends are essential tools in the Sass arsenal. Anthony DiSpezio shows how to leverage them at the same time to create smarter Sass and cleaner CSS.
 
 https://github.com/adispezio/learn/tree/master/crafting-smarter-mixins-with-extend
 
@@ -169,6 +169,7 @@ http://www.sitepoint.com/keep-sass-simple/*
 
 
 ---
+**Boxout Two**
 # A Community at Large
 Sass is frequently credited for having a diverse and engaged community of developers that extends well beyond the language itself. All over the world, developers have come together to share their knowledge and love for Sass through conferences, meetups, web shows, blogs and more!
 
@@ -198,3 +199,5 @@ Content Engineer at Inkling
 Clients: Starbucks, Pearson, Kaplan, Elsevier, McGraw Hill
 
 *HTML, CSS, Sass, JS, WP*
+
+Anthony has a “healthy obsession” with front-end design and currently puts his CSS cravings to good use at Inkling as a Content Engineer. Focusing on typography and layout, Anthony works closely with publishers and content architects to design compelling content for digital devices. Before joining Inkling in 2013, Anthony worked as a designer for the National Geographic Society and the Woods Hole Oceanographic Institute.

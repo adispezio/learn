@@ -1,6 +1,6 @@
 # Crafting Smarter Mixins with Extend
 
-### Mixins and extends are essential tools in the Sass arsenal. Anthony DiSpezio shows how to leverage them at the same time to create smarter Sass and cleaner CSS.
+### Mixins and extends are essential tools for any Sass developer. Anthony DiSpezio shows how to leverage them at the same time to create smarter Sass and cleaner CSS.
 
 https://github.com/adispezio/learn/tree/master/crafting-smarter-mixins-with-extend
 
@@ -171,18 +171,18 @@ http://www.sitepoint.com/keep-sass-simple/*
 ---
 **Boxout Two**
 # A Community at Large
-Sass is frequently credited for having a diverse and engaged community of developers that extends well beyond the language itself. All over the world, developers have come together to share their knowledge and love for Sass through conferences, meetups, web shows, blogs and more!
+Sass is frequently credited for having a diverse and engaged community of developers that extends well beyond the language itself. All over the world, developers have come together to share their knowledge and love for Sass through conferences, meetups, podcasts, blogs and more!
 
 SassConf is an annual conference devoted to front-end development and Sass. Every year, hundreds of designers and developers descend upon New York City for several days of speakers, workshops and activities aimed at educating and growing the community. 
 SassConf | http://sassconf.com/
 
 Sass meetups are a great way to catch up on new ideas and talk shop with other Sass enthusiasts. There are meetups all across the globe, so find out if there’s one near you. If not, start your own meetup and help grow the fun Sass community!
 
-For a weekly dose of Sass, check out the Sass Bites podcast hosted by Michael Gobolt and the Sass News email group curated by Stuart Robson. These subscriptions are jam-packed with valuable knowledge and the latest Sass news.
+For a weekly dose of Sass, check out the Sass Bites podcast hosted by Michael Godbolt and the Sass News email group curated by Stuart Robson. These subscriptions are jam-packed with valuable knowledge and the latest Sass tips and tricks.
 Sass Bites | https://www.youtube.com/user/sassbites
 Sass News | http://sassnews.com/
 
-Every day, fantastic Sass experiments are posted on blogs, twitter, youtube, code playgrounds, and more. Devote a small portion of your day to exploring what’s new and pushing the boundaries of your own experience, even if it’s only a few minutes. The Sass Way
+Every day, fantastic Sass experiments are posted on blogs, twitter, youtube, code playgrounds, and more. Devote a small portion of your day to exploring what’s new and pushing the boundaries of your own experience, even if it’s only a few minutes.
 
 ![boxout_2-1.png](https://github.com/adispezio/learn/blob/master/crafting-smarter-mixins-with-extend/boxout2-1.png "Boxout 2.1")<br>
 *SassConf, held annually in NYC, is the largest front-end conference devoted entirely to Sass-driven development.*

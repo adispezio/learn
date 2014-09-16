@@ -1,6 +1,6 @@
 # Crafting Smarter Mixins with Extend
 
-### Mixins and extends are essential tools for any Sass developer. Anthony DiSpezio shows how to leverage them at the same time to create smarter Sass and cleaner CSS.
+### Mixins and extends are essential features for any Sass developer. Anthony DiSpezio shows how to leverage them at the same time to create smarter Sass and cleaner CSS.
 
 https://github.com/adispezio/learn/tree/master/crafting-smarter-mixins-with-extend
 

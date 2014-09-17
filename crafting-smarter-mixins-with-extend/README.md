@@ -189,7 +189,7 @@ SassConf | http://sassconf.com/
 
 Sass meetups are a great way to catch up on new ideas and talk shop with other Sass enthusiasts. There are meetups all across the globe, so find out if there’s one near you. If not, start your own meetup and help grow the fun Sass community!
 
-For a weekly dose of Sass, check out the Sass Bites podcast hosted by Michael Godbolt and the Sass News email group curated by Stuart Robson. These subscriptions are jam-packed with valuable knowledge and the latest Sass tips and tricks.
+For a weekly dose of Sass, check out the Sass Bites podcast hosted by Micah Godbolt and the Sass News email group curated by Stuart Robson. These subscriptions are jam-packed with valuable knowledge and the latest Sass tips and tricks.
 Sass Bites | https://www.youtube.com/user/sassbites
 Sass News | http://sassnews.com/
 

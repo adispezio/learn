@@ -41,7 +41,7 @@ Mixins are one of the basic building blocks of Sass. Simply wrap a group of prop
     background-color: red;
 }
 ```
-![@mixin visualization](https://raw.githubusercontent.com/adispezio/learn/master/crafting-smarter-mixins-with-extend/image1.png)
+![@mixin visualization](https://raw.githubusercontent.com/adispezio/learn/master/crafting-smarter-mixins-with-extend/image2.png)
 *A mixins contents is included every time it's called. In our example, the border properties are repeated in both classes.*
 
 This is already a huge improvement over plain CSS and we’ve only just scratched the surface. Mixins also accept inputs, called arguments, which can be used as variables for properties or even class names. Let’s look at a more advanced example that generates entire button classes with a unique class name and background color:
@@ -77,7 +77,7 @@ Include the mixin with the values for each argument to generate unique CSS for e
 
 Even in this small example it’s easy to see the scalable power of Sass!
 
-![Sass Meetups on Meetup.com](https://raw.githubusercontent.com/adispezio/learn/master/crafting-smarter-mixins-with-extend/image2.png)<br>
+![Sass Meetups on Meetup.com](https://raw.githubusercontent.com/adispezio/learn/master/crafting-smarter-mixins-with-extend/image1.png)<br>
 *Visit the Sass website for more information on creating arguments and using variables within mixins. http://sass-lang.com/documentation/*
 
 ## Downsides of Duplication

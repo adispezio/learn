@@ -209,7 +209,7 @@ Content Engineer at Inkling
 
 Clients: Elsevier, Kaplan, McGraw Hill, O'Reilly, Pearson
 
-*HTML, CSS, Sass, JS, WP*
+*HTML, CSS, Sass, JS, WP, N64*
 
 Anthony has a “healthy obsession” with front-end design and currently puts his CSS cravings to good use at Inkling as a Content Engineer. Focusing on typography and layout, Anthony works closely with publishers and content architects to design compelling content for digital devices. Before joining Inkling in 2013, Anthony worked as a designer for the National Geographic Society and the Woods Hole Oceanographic Institute.
 

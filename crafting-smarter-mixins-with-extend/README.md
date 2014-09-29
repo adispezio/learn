@@ -203,10 +203,12 @@ Every day, fantastic Sass experiments are posted on blogs, twitter, youtube, cod
 
 ---
 **Marginalia One**
+
 Ready for the next level? Check out Dale Sande's Advanced Sass course on Treehouse for more powerful mixins and a wealth of other great Sass knowledge! http://teamtreehouse.com/library/advanced-sass
 
 ---
 **Marginalia Two**
+
 Screencast
 
 ---

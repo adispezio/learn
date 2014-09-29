@@ -202,8 +202,19 @@ Every day, fantastic Sass experiments are posted on blogs, twitter, youtube, cod
 *Sass meetups are happening all over the world. Find a meetup near you or start your own!*
 
 ---
+**Marginalia One**
+Ready for the next level? Check out Dale Sande's Advanced Sass course on Treehouse for more powerful mixins and a wealth of other great Sass knowledge! http://teamtreehouse.com/library/advanced-sass
+
+---
+**Marginalia Two**
+Screencast
+
+---
 # Author
 Anthony DiSpezio
+
+Who would play your in a movie of your life?
+Kyle MacLachlan
 
 Content Engineer at Inkling
 
